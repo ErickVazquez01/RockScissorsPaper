@@ -1,6 +1,7 @@
-# piedrapapeltijera
+# Piedra Papel o Tijera
+Proyecto creado en flutter con la intención de recrear el clásico juego piedra, papel o tijera.
 
-A new Flutter project.
+Esta app está diseñada para un solo jugador, donde la máquina o el dispositivo hace el segundo jugador, es decir, usuario vs telefono.
 
 ## Getting Started
 
